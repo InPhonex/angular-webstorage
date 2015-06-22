@@ -75,8 +75,8 @@
  * </code>
  *
  * @author Fredric Rylander, https://github.com/fredricrylander/angular-webstorage
- * @date 2014-07-16
- * @version 0.11.0
+ * @date 2015-06-22
+ * @version 0.11.1
  *
  * @contributor Paulo Cesar (https://github.com/pocesar)
  * @contributor David Chang (https://github.com/hasdavidc)
